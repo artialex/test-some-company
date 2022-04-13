@@ -1,0 +1,18 @@
+.root {
+  width: 100%;
+  display: flex;
+}
+
+.left {
+  padding: 24px;
+}
+
+.right {
+  padding: 24px;
+  width: 100%;
+  flex: 1;
+
+  h1 {
+    margin: 0;
+  }
+}

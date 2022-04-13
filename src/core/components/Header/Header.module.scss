@@ -1,0 +1,19 @@
+.root {
+  flex: 0 0 80px;
+  border-bottom: 1px solid var(--subtle-color);
+  display: flex;
+  padding: 0 24px;
+  box-sizing: border-box;
+  justify-content: center;
+  align-items: center;
+}
+
+.list {
+  margin-left: auto;
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+}

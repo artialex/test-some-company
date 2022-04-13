@@ -1,0 +1,29 @@
+.root {
+  width: 100%;
+}
+
+.banner {
+  width: 100%;
+  height: 300px;
+  background-color: var(--subtle-color);
+}
+
+.right {
+  div {
+    border: 1px solid var(--subtle-color);
+    padding: 24px;
+  }
+
+  button {
+    display: block;
+    margin-left: auto;
+  }
+}
+
+.container {
+  width: 800px;
+  padding-top: 24px;
+  margin: 0 auto;
+  display: flex;
+  gap: 24px;
+}
